@@ -12,12 +12,12 @@
 
 ### 小tricks
 
-使用graphviz可以画出漂亮的model图，如下图（我在生成的YOLO3模型上截取的一部分）首先要install graphviz，添加Path。
+使用graphviz可以画出漂亮的model图便于理解，如下图（我在生成的YOLO3模型上截取的一部分）首先要install graphviz，添加Path。
 
 eg: `plot(model, to_file='{}.png'.format(output_root), show_shapes=True)`
 
 
 
-![4eaf5eb953a6ccd665a1b920f182684.png](C:\Users\FD3\AppData\Local\Temp\WeChat Files\4eaf5eb953a6ccd665a1b920f182684.png)
+![4eaf5eb953a6ccd665a1b920f182684.png](https://github.com/wuwou/CV-Learning/blob/master/images/1.png)
 
 
