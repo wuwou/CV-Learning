@@ -21,3 +21,5 @@ eg: `plot(model, to_file='{}.png'.format(output_root), show_shapes=True)`
 ![4eaf5eb953a6ccd665a1b920f182684.png](https://github.com/wuwou/CV-Learning/blob/master/images/1.png)
 
 
+### python中yield和return区别详解
+[python中yield详解](https://blog.csdn.net/mieleizhi0522/article/details/82142856)
